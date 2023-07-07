@@ -5,7 +5,7 @@ const biodata = {
     isMarried: false,
     schoolList: [
       {
-        name: "SMPN 1 Yosowi;angun",
+        name: "SMPN 1 Yosowilangun",
         yearIn: 2010,
         yearOut: 2013,
         major: null,
